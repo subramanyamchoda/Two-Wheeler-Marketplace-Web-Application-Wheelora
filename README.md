@@ -40,3 +40,12 @@ Our solution is a web application designed to simplify the two-wheeler buying pr
 | D. Swaraj | Database Engineer | PostgreSQL optimization, data modeling |
 | Y. Rajitha | Frontend Deployment Lead | Frontend deployment on Vercel |
 | B. Sailaja | Backend Deployment Lead | Backend hosting on Render, database management on Supabase |
+
+---
+
+#ppt 
+[View Presentation (PDF)](https://github.com/subramanyamchoda/qisicons/blob/main/Our%20Smart%20SolutionWheelora.pdf)
+[View Presentation Online]([https://link-to-your-presentation](https://github.com/subramanyamchoda/qisicons/blob/main/Project_Summary(qiscons)%5B1%5D%5B1%5D.pdf))
+[View Presentation Online](https://drive.google.com/file/d/yourfile/view)
+
+
