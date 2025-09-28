@@ -43,9 +43,12 @@ Our solution is a web application designed to simplify the two-wheeler buying pr
 
 ---
 
-#ppt 
-[View Presentation (PDF)](https://github.com/subramanyamchoda/qisicons/blob/main/Our%20Smart%20SolutionWheelora.pdf)
-[View Presentation Online]([https://link-to-your-presentation](https://github.com/subramanyamchoda/qisicons/blob/main/Project_Summary(qiscons)%5B1%5D%5B1%5D.pdf))
-[View Presentation Online](https://drive.google.com/file/d/yourfile/view)
+# Presentation & Resources
+
+- [View Presentation](https://github.com/subramanyamchoda/qisicons/blob/main/Our%20Smart%20SolutionWheelora.pdf)
+- [View Document](https://github.com/subramanyamchoda/qisicons/blob/main/Project_Summary(qiscons)%5B1%5D%5B1%5D.pdf)
+- [View Video](https://drive.google.com/file/d/1xOGWWnWr9cIrl2kug9iR_iIH0Qt638R_/view?usp=drivesdk)
+- [View Prototype](https://drive.google.com/file/d/yourfile/view)
+
 
 
