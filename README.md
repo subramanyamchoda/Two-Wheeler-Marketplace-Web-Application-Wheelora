@@ -139,16 +139,7 @@ We propose **Wheelora – Smart Two-Wheeler Marketplace**, a web-based platform 
 - 📑 [Presentation](https://github.com/subramanyamchoda/qisicons/blob/main/Our%20Smart%20SolutionWheelora.pdf)  
 - 📄 [Project Summary](https://github.com/subramanyamchoda/Two-Wheeler-Marketplace-Web-Application-Wheelora/blob/main/Project_Summary(qiscons).pdf)  
 - 🎥 [Demo Video](https://drive.google.com/file/d/1qVhyvH5i72pmE3s5X7yQS3PaaJbM05pC/view?usp=drivesdk)  
-- 🖥 [Prototype](https://drive.google.com/file/d/yourfile/view)  
-
----
-
-## 🎨 UI/UX Suggestions  
-
-- Use **Framer Motion** for smooth animations  
-- Integrate **Lottie bike animations** for interactivity  
-- Card-based responsive layouts with **hover effects**  
-- **Dark + Neon theme** for a modern biker community vibe  
+- 🖥 [Prototype ui-live link](http://hackton-ui.vercel.app/)  
 
 ---
 
