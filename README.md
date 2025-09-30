@@ -85,7 +85,7 @@ We propose **Wheelora – Smart Two-Wheeler Marketplace**, a web-based platform 
 
 ## 🖼️ Block Diagram  
 
-![Block Diagram](https://github.com/subramanyamchoda/Two-Wheeler-Marketplace-Web-Application-Wheelora/blob/main/111.drawio.png)  
+![Block Diagram](https://github.com/subramanyamchoda/Two-Wheeler-Marketplace-Web-Application-Wheelora/blob/main/Untitled.png)  
 
 ---
 
@@ -118,7 +118,7 @@ We propose **Wheelora – Smart Two-Wheeler Marketplace**, a web-based platform 
 
 ## 🖼️ Tech Stack Diagram  
 
-![Tech Stack](https://github.com/subramanyamchoda/Two-Wheeler-Marketplace-Web-Application-Wheelora/blob/main/Untitled.png)  
+![Tech Stack](https://github.com/subramanyamchoda/Two-Wheeler-Marketplace-Web-Application-Wheelora/blob/main/111.drawio.png)
 
 ---
 
